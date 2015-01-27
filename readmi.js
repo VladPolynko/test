@@ -1,6 +1,6 @@
 //git test
 //git test2
 
-//conflict
+//conflict [2]
 
 //q w e
