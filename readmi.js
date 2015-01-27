@@ -3,4 +3,5 @@ var b = a+a;
 console.log(b);
 
 b +=a;
-console.log(b);
+console.log(b); 
+//git test2
